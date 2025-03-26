@@ -9,3 +9,5 @@ paises.append("Brazil")
 paises.append("Suecia")
 print("el nuevo tamaño de la lista es : {}".format(len(paises)))
 print(paises)
+
+
